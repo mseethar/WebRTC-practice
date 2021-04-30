@@ -1,0 +1,20 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.4.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCw1HhbOFiDVLUlB49C79UadUNEW82wMpQ",
+    authDomain: "picokernel-d4e16.firebaseapp.com",
+    databaseURL: "https://picokernel-d4e16-default-rtdb.firebaseio.com",
+    projectId: "picokernel-d4e16",
+    storageBucket: "picokernel-d4e16.appspot.com",
+    messagingSenderId: "196510654561",
+    appId: "1:196510654561:web:4407c88124a4a6f7358a20"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
